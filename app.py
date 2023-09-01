@@ -19,10 +19,6 @@ st.image(image,use_column_width=True)
 #set subtitle
 
 st.write("""
-    # A simple Data App With Streamlit
-    """)
-
-st.write("""
  ### Let's Explore different classifiers and datasets
 """)
 
