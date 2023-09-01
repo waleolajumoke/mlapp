@@ -13,11 +13,6 @@ from sklearn.metrics import accuracy_score
 
 from PIL import Image
 
-
-# #Set title
-
-st.title('Tech365')
-
 image = Image.open('logo.png')
 st.image(image,use_column_width=True)
 
